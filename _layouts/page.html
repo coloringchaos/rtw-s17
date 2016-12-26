@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<section class="previews">
+  	<div>
+	    {% for post in paginator.posts %}
+	      	<figure class="absolute-bg preview__img" style="background-image: url('{{ post.image }}');"></figure>
+	    {% endfor %}
+	    <div class="previews__container.new">
+	      	<h1 class="site-title">{{ site.title }}</h1>
+	      	<ul class="tabs-new">
+	        	<a href="../index"><li class="tabs-new__item">Posts</li></a>
+	        	<a href="../syllabus"><li class="tabs-new__item">Syllabus</li></a>
+	        	<a href="../schedule"><li class="tabs-new__item">Schedule</li></a>
+	        	<a href="../resources"><li class="tabs-new__item">Resources</li></a>
+	        	<a href="../students"><li class="tabs-new__item">Students</li></a>
+	      	</ul>
+
+	      	<div class="info">
+            <p>
+              ATLS 3519-070/071 <br>
+              M / W 1-2:50pm in ATLS 1B31 <br>
+              <br>
+              Arielle Hein <br>
+              arielle.hein@colorado.edu <br>
+              <a href="https://calendar.google.com/calendar/selfsched?sstoken=UUZYbEdENFRMME1vfGRlZmF1bHR8NmNhMjk2MzA1MTExOTU0ZDI4N2VlNDUzMDRiOGU4Y2I"><span class="officehrs">Office Hours</span></a>
+            </p>
+          </div>
+	    </div>
+  	</div>
+
+ <!--  	<div>
+	    <header>
+	      	<ul class="tabs">
+	        	<a href="{{ site.baseurl }}/"><li class="tabs__item" href="index.html">Posts</li></a> 
+	        	<li class="tabs__item active">Schedule</li>
+	      	</ul>
+	    </header>
+  	</div> -->
+
+
+	<section class="tab page">
+    	{{ content }}
+
+    	<!-- {% include archive-link.html %} -->
+  	</section>
+
+</section>
