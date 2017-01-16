@@ -15,7 +15,7 @@ This page has a breakdown of the general content that we will cover in each clas
 
 
 ### Week 1
-<span class="ass">**Wednesday, January 18th**</span> <br> introductions, what is the Real Time Web, <span class="link">[intro survey]()</span>, <span class="link">[javascript 101](/rtw-s17/js101/)</span>
+<span class="ass">**Wednesday, January 18th**</span> <br> introductions, what is the Real Time Web, <span class="link">[intro survey]()</span>, <span class="link">[javascript 101](/rtw-s17/js101)</span>
 
 <hr>
 
@@ -26,7 +26,7 @@ This page has a breakdown of the general content that we will cover in each clas
 
 <span class="ass">**Wednesday, January 25th**</span> <br> becomming live, ajax, websockets, github
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 1](/assignment-1/)</span>
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 1](/rtw-s17/assignment-1)</span>
 
 <hr>
 
