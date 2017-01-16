@@ -10,86 +10,173 @@ permalink: /schedule/
 <br>
 This page has a breakdown of the general content that we will cover in each class. Major project due dates are listed on this page, as are assignments, test and critique dates. This schedule is subject to change.
 
-Assignments are due on the day that they are listed.
-
 <br>
 <hr>
-<br>
+
 
 ### Week 1
-Wednesday, January 18th
+<span class="ass">**Wednesday, January 18th**</span> <br> introductions, what is the Real Time Web, <span class="link">[intro survey]()</span>, <span class="link">[javascript 101](/js101/)</span>
+
+<hr>
 
 ### Week 2
-Monday, January 23rd
+<span class="ass">**Monday, January 23rd**</span> <br> how the internet works, workflow overview, media elements
 
-Wednesday, January 25th
+<br>
+
+<span class="ass">**Wednesday, January 25th**</span> <br> becomming live, ajax, websockets, github
+
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 1](/assignment-1/)</span>
+
+<hr>
 
 ### Week 3
-Monday, January 30th
+<span class="ass">**Monday, January 30th**</span> <br> socket.io, node.js, simple chat
 
-Wednesday, February 1st
+<br>
+
+<span class="ass">**Wednesday, February 1st**</span> <br> javascript objects and JSON
+
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 2]()</span>
+
+<hr>
 
 ### Week 4
-Monday, February 6th
+<span class="ass">**Monday, February 6th**</span> <br> the HTML5 canvas, p5.js
 
-Wednesday, February 8th 
+<br>
+
+<span class="ass">**Wednesday, February 8th**</span> <br> mouse events, creative coding, generating data with p5.js
+
+<hr>
 
 ### Week 5
-Monday, February 13th
+<span class="ass">**Monday, February 13th**</span> <br> collaborative drawing with socket.io
 
-Wednesday, February 15th
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 3]()</span>
+
+<br>
+
+<span class="ass">**Wednesday, February 15th**</span> <br> collaborative drawing
+
+<hr>
 
 ### Week 6
-Monday, February 20th
+<span class="ass">**Monday, February 20th**</span> <br> HTML5 audio and video with WebRTC 
 
-Wednesday, February 22nd
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 4]()</span>
+
+<br>
+
+<span class="ass">**Wednesday, February 22nd**</span> <br> multi-user audio / video, running a server with peer.js
+
+<hr>
 
 ### Week 7
-Monday, February 27th
+<span class="ass">**Monday, February 27th**</span> <br> manipulating video and saving files on node.js
 
-Wednesday, March 1st
+<br>
+
+<span class="ass">**Wednesday, March 1st**</span> <br> simple server side databases
+
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 5]()</span>
+
+<hr>
 
 ### Week 8
-Monday, March 6th
+<span class="ass">**Monday, March 6th**</span> <br> webRTC data channels
 
-Wednesday, March 8th
+<br>
+
+<span class="ass">**Wednesday, March 8th**</span> <br> mobile
+
+<hr>
 
 ### Week 9
-Monday, March 13th
+<span class="ass">**Monday, March 13th**</span> <br> mobile & other live data
 
-Wednesday, March 15th
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 6]()</span>
+
+<br>
+
+<span class="ass">**Wednesday, March 15th**</span> <br> mobile & other live data
+
+<hr>
 
 ### Week 10
-Monday, March 20th
+<span class="ass">**Monday, March 20th**</span> <br> project 1 critique
 
-Wednesday, March 22nd
+<span class="due"><i class="fa fa-star" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Project 1]()</span>
+
+<br>
+
+<span class="ass">**Wednesday, March 22nd**</span> <br> mobile and live data from other sources
+
+<hr>
 
 ### Week 11 - SPRING BREAK
 <i>Monday, March 27th - NO CLASSES</i>
 
 <i>Wednesday, March 29th  - NO CLASSES<i>
 
-### Week 12
-Monday, April 3rd
+<hr>
 
-Wednesday, April 5th
+### Week 12
+<span class="ass">**Monday, April 3rd**</span> <br> chrome extensions
+
+<br>
+
+<span class="ass">**Wednesday, April 5th**</span> <br>final project workshop
+
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 7]()</span>
+
+<hr>
 
 ### Week 13
-Monday, April 10th
+<span class="ass">**Monday, April 10th**</span> <br> live data from the physical world (arduino)
 
-Wednesday, April 12th
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Final Project Proposal]()</span>
+
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 8]()</span> (Book Report)
+
+<br>
+
+<span class="ass">**Wednesday, April 12th**</span> <br> arduino and node.js
+
+<hr>
 
 ### Week 14
-Monday, April 17th
+<span class="ass">**Monday, April 17th**</span> <br> arduino and node.js
 
-Wednesday, April 19th
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 9]()</span>
+
+<br>
+
+<span class="ass">**Wednesday, April 19th**</span> <br>
+
+<hr>
 
 ### Week 15
-Monday April 24th
+<span class="ass">**Monday April 24th**</span> <br>
 
-Wednesday, April 26th
+<br>
+
+<span class="ass">**Wednesday, April 26th**</span> <br>
+
+<hr>
 
 ### Week 16
-Monday, May 1st
+<span class="ass">**Monday, May 1st**</span> <br> work day
 
-Wednesday, May 3rd
+<br>
+
+<span class="ass">**Wednesday, May 3rd**</span> <br> project 2 critique
+
+<span class="due"><i class="fa fa-star" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Project 2]()</span>
+
+<hr>
+
+
+### Finals Week
+
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 10]()</span>

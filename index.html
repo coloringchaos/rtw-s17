@@ -13,8 +13,8 @@ layout: default
 
           <ul class="tabs-new">
             <a href="index"><li class="tabs-new__item">Posts</li></a>
-            <a href="../syllabus"><li class="tabs-new__item">Syllabus</li></a>
             <a href="schedule"><li class="tabs-new__item">Schedule</li></a>
+            <a href="../syllabus"><li class="tabs-new__item">Syllabus</li></a>
             <a href="resources"><li class="tabs-new__item">Resources</li></a>
             <a href="students"><li class="tabs-new__item">Students</li></a>
           </ul>
@@ -36,10 +36,15 @@ layout: default
     <ul itemscope itemtype="http://schema.org/Blog">
       {% for post in paginator.posts %}
         <li class="preview" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+          
           <a class="preview__link" href="{{ post.url | prepend: site.baseurl }}" itemprop="url">
+            
             <span class="preview__date" itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</span>
+            
             <h2 class="preview__header" itemprop="name">{{ post.title }}</h2>
+            
             <p class="preview__excerpt" itemprop="description">{{ post.content | strip_html | truncatewords: 30 }}</p>
+            
             <span class="preview__more">Read More</span>
           </a>
         </li>
