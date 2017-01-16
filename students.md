@@ -7,8 +7,8 @@ permalink: /students/
 
 # Students
 
-<br>
-<hr>
+<!-- <br> -->
+<!-- <hr> -->
 <br>
 
 <div class="students">

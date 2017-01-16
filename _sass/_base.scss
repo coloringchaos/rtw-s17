@@ -3,7 +3,7 @@
  */
 $font-header: 'Space Mono', monospace;
 $font-body: 'Inconsolata', monospace;
-$font-post: 'Lora', serif;
+$font-post: 'Lora', sans-serif;
 
 $color-alpha: #9f8f68;
 $color-alpha--light: #f5f3ef;
@@ -72,6 +72,7 @@ h1 {
 
   @media (min-width: $mq-xl) {
     font-size: $fontSize + 0.5em;
+    line-height:1.5em;
   }
 }
 
@@ -119,4 +120,8 @@ ol, ul {
   color: $color-white;
   background-color: $color-alpha;
   text-shadow: none;
+}
+
+.absolute-bg{
+  background:linear-gradient(to bottom, #104E8C , #166dc3);
 }
