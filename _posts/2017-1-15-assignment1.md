@@ -10,7 +10,9 @@ permalink: /assignment-1/
 
 Create an interactive web-based conceptual self-portrait. 
 
-You should use HTML, CSS and Javascript. Your project should utilize creative media elements and introduce who you are in a unique way.
+You should use HTML, CSS and Javascript. Your project should rely on the use of creative media elements (images, video, audio, etc..) and introduce who you are in a unique way. 
+
+Post your self portrait on the Creative Server and submit the link on Edmodo.
 
 <br>
 
