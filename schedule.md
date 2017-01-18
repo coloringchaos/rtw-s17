@@ -15,16 +15,16 @@ This page has a breakdown of the general content that we will cover in each clas
 
 
 ### Week 1
-<span class="ass">**Wednesday, January 18th**</span> <br> introductions, what is the Real Time Web, <span class="link">[creative server workflow](/rtw-s17/creative)</span>, <span class="link">[javascript 101](/rtw-s17/js101)</span>, <span class="link">[intro survey](https://docs.google.com/a/colorado.edu/forms/d/e/1FAIpQLSdZzXygwWHYUm1ahCp5pHHhdaoTC1gxYZDl8iEwFFO3R7UYWA/viewform)</span>
+<span class="ass">**Wednesday, January 18th**</span> <br> introductions, course overview, <span class="link">[documentation](/rtw-s17/blogs)</span>, <span class="link">[creative server workflow](/rtw-s17/creative)</span>, <span class="link">[javascript 101](/rtw-s17/js101)</span>, <span class="link">[intro survey](https://docs.google.com/a/colorado.edu/forms/d/e/1FAIpQLSdZzXygwWHYUm1ahCp5pHHhdaoTC1gxYZDl8iEwFFO3R7UYWA/viewform)</span>
 
 <hr>
 
 ### Week 2
-<span class="ass">**Monday, January 23rd**</span> <br> how the internet works, javascript 102, media elements
+<span class="ass">**Monday, January 23rd**</span> <br> how the internet works, what is the real time web, javascript 102, media elements
 
 <br>
 
-<span class="ass">**Wednesday, January 25th**</span> <br> becomming live, ajax, websockets, github
+<span class="ass">**Wednesday, January 25th**</span> <br> becomming live, websockets, socket.io, github
 
 <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="link">[Assignment 1](/assignment-1)</span>
 
