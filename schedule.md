@@ -20,13 +20,15 @@ This page has a breakdown of the general content that we will cover in each clas
 <hr>
 
 ### Week 2
-<span class="ass">**Monday, January 23rd**</span> <br> how the internet works, what is the real time web, javascript 102, media elements
+<span class="ass">**Monday, January 23rd**</span> <br> how the internet works, javascript 102, media elements
 
 <br>
 
-<span class="ass">**Wednesday, January 25th**</span> <br> becomming live, websockets, socket.io, github
+<span class="ass">**Wednesday, January 25th**</span> <br> what is the real time web, becomming live, websockets, socket.io, github, digital ocean
 
 <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="link">[Assignment 1](/rtw-s17/assignment-1)</span>
+
+<span class="due"><i class="fa fa-hand-o-right" aria-hidden="true"></i>**Watch:**</span> <span class="link">[How The Internet Works](https://www.khanacademy.org/computing/computer-science/internet-intro#internet-works-intro)</span> (videos 1-4)
 
 <hr>
 
