@@ -15,12 +15,12 @@ This page has a breakdown of the general content that we will cover in each clas
 
 
 ### Week 1
-<span class="ass">**Wednesday, January 18th**</span> <br> introductions, course overview, <span class="link">[documentation](/rtw-s17/blogs)</span>, <span class="link">[creative server workflow](/rtw-s17/creative)</span>, <span class="link">[javascript 101](/rtw-s17/js101)</span>, <span class="link">[intro survey](https://docs.google.com/a/colorado.edu/forms/d/e/1FAIpQLSdZzXygwWHYUm1ahCp5pHHhdaoTC1gxYZDl8iEwFFO3R7UYWA/viewform)</span>
+<span class="ass">**Wednesday, January 18th**</span> <br> introductions, course overview, <span class="link">[documentation](/rtw-s17/blogs)</span>, <span class="link">[hello javascript](/rtw-s17/js101)</span>, <span class="link">[creative server workflow](/rtw-s17/creative)</span>, <span class="link">[intro survey](https://docs.google.com/a/colorado.edu/forms/d/e/1FAIpQLSdZzXygwWHYUm1ahCp5pHHhdaoTC1gxYZDl8iEwFFO3R7UYWA/viewform)</span>
 
 <hr>
 
 ### Week 2
-<span class="ass">**Monday, January 23rd**</span> <br> how the internet works, javascript 102, <span class="link">[media elements](/rtw-s17/media)</span>
+<span class="ass">**Monday, January 23rd**</span> <br> how the internet works, javascript basics, <span class="link">[media elements](/rtw-s17/media)</span>
 
 <br>
 
