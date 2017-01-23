@@ -20,7 +20,7 @@ This page has a breakdown of the general content that we will cover in each clas
 <hr>
 
 ### Week 2
-<span class="ass">**Monday, January 23rd**</span> <br> how the internet works, javascript 102, media elements
+<span class="ass">**Monday, January 23rd**</span> <br> how the internet works, javascript 102, <span class="link">[media elements](/rtw-s17/media)</span>
 
 <br>
 
