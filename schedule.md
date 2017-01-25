@@ -24,7 +24,7 @@ This page has a breakdown of the general content that we will cover in each clas
 
 <br>
 
-<span class="ass">**Wednesday, January 25th**</span> <br> websockets, becomming live, <span class="link">[server setup](/rtw-s17/server-setup)</span>, <span class="link">[simple chat](/rtw-s17/simple-chat)</span>, <span class="link">[git and github](/rtw-s17/github)</span>
+<span class="ass">**Wednesday, January 25th**</span> <br> websockets, becomming live, <span class="link">[server setup](/rtw-s17/setup)</span>, <span class="link">[simple chat](/rtw-s17/simple-chat)</span>, <span class="link">[git and github](/rtw-s17/github)</span>
 
 <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="link">[Assignment 1](/rtw-s17/assignment-1)</span>
 
