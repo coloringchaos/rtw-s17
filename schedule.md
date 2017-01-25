@@ -24,7 +24,7 @@ This page has a breakdown of the general content that we will cover in each clas
 
 <br>
 
-<span class="ass">**Wednesday, January 25th**</span> <br> what is the real time web, becomming live, websockets, socket.io, github, digital ocean
+<span class="ass">**Wednesday, January 25th**</span> <br> websockets, becomming live, <span class="link">[server setup](/rtw-s17/server-setup)</span>, <span class="link">[simple chat](/rtw-s17/simple-chat)</span>, github
 
 <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="link">[Assignment 1](/rtw-s17/assignment-1)</span>
 
@@ -39,7 +39,7 @@ This page has a breakdown of the general content that we will cover in each clas
 
 <span class="ass">**Wednesday, February 1st**</span> <br> javascript objects and JSON
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 2]()</span>
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 2](/rtw-s17/assignment-2)</span>
 
 <hr>
 
