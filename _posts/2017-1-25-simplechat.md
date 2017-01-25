@@ -8,9 +8,7 @@ permalink: /simple-chat/
 
 ---
 
-### <span class="underlined">Simple Chat</span>
-
-Here is a full chat example that we can start with. 
+Getting up and running with websockets and socket.io. Here is a full chat example that we can start with. 
 
 This examples uses [Socket.io](http://socket.io/), which we will be using extensively over the course of the semester. Socket.io is a JavaScript library that uses websockets for realtime web applications. It has two parts: a client-side library that runs in the browser, and a server-side library for node.js.
 
