@@ -8,9 +8,9 @@ permalink: /assignment-2/
 
 ---
 
-Extend the simple chat example that we went through in class in some creative way. 
+Extend the [simple chat](/rtw-s17/simple-chat/) example that we went through in class. 
 
-Work on the styling, sending additional messages, or altering the experience in some way.  
+Work on the styling, sending additional messages, or altering user experience. Get creative!  
 
 Post your code on GitHub, and also write a blog post about what you made. Submit a link to both your blog and your code on Edmodo. 
 
