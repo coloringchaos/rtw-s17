@@ -12,8 +12,8 @@ Extend the simple chat example that we went through in class in some creative wa
 
 Work on the styling, sending additional messages, or altering the experience in some way.  
 
-On Edmodo, submit a link to your github and to your blog post. 
+Post your code on GitHub, and also write a blog post about what you made. Submit a link to both your blog and your code on Edmodo. 
 
 <br>
 
-**Assignment 2 is due before class on Wednesday, February 1st**
+**Assignment 2 is due before class on Wednesday, February 1st** 
