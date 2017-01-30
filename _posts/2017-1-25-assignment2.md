@@ -16,4 +16,12 @@ Post your code on GitHub, and also write a blog post about what you made. Submit
 
 <br>
 
+Assignment 2 is worth 40 points. You will be evaluated on: 
+
++ 20 pts - technical proficiency<br>
++ 10 pts - design / UI<br>
++ 10 pts - concept / creativity *(apply the technology in an interesting way!)*
+
+<br>
+
 **Assignment 2 is due before class on Wednesday, February 1st** 
