@@ -33,7 +33,7 @@ This page has a breakdown of the general content that we will cover in each clas
 <hr>
 
 ### Week 3
-<span class="ass">**Monday, January 30th**</span> <br> socket.io, node.js, simple chat
+<span class="ass">**Monday, January 30th**</span> <br> git/github, <span class="link">[simple chat](/rtw-s17/simple-chat)</span> review, work time
 
 <br>
 
