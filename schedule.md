@@ -33,18 +33,18 @@ This page has a breakdown of the general content that we will cover in each clas
 <hr>
 
 ### Week 3
-<span class="ass">**Monday, January 30th**</span> <br> git/github, <span class="link">[simple chat](/rtw-s17/simple-chat)</span> review, work time
+<span class="ass">**Monday, January 30th**</span> <br> git/github, <span class="link">[simple chat](/rtw-s17/simple-chat)</span>
 
 <br>
 
-<span class="ass">**Wednesday, February 1st**</span> <br> javascript objects and JSON
-
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 2](/rtw-s17/assignment-2)</span>
+<span class="ass">**Wednesday, February 1st**</span> <br> sending multiple events <span class="link">[demo](../img/many-messages-template.zip)</span>, review
 
 <hr>
 
 ### Week 4
 <span class="ass">**Monday, February 6th**</span> <br> the HTML5 canvas, p5.js
+
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 2](/rtw-s17/assignment-2)</span>
 
 <br>
 

@@ -24,4 +24,4 @@ Assignment 2 is worth 40 points. You will be evaluated on:
 
 <br>
 
-**Assignment 2 is due before class on Wednesday, February 1st** 
+**Assignment 2 is due before class on Monday, February 6st** 
