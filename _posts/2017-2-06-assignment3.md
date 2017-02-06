@@ -12,7 +12,7 @@ Create a simple interactive drawing experience using p5.
 
 Focus on the visual style and the interactivity. Aim to build something where multiple clients could connect and collaborate in the experience in some way. In assignment 4 you will have the opportunity to extend this example to include a websocket connection (you do not need to set up a real-time connection in this assignment).
 
-Visit [p5js.org](http://p5js.org/) for examples and references.
+Check out this excellent collection of [p5 videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) for help on this assignemnt. Also visit [p5js.org](http://p5js.org/) for examples and references.
 
 <br>
 
