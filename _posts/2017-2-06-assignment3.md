@@ -16,12 +16,15 @@ Check out this excellent collection of [p5 videos](https://www.youtube.com/playl
 
 <br>
 
-
 Assignment 3 is worth 40 points. You will be evaluated on: 
 
 + 20 pts - technical proficiency<br>
 + 10 pts - design / UI<br>
 + 10 pts - concept / creativity
+
+<br>
+
+Post your assignment on the Creative Server so that I can view it live online. Post a link to your project on Edmodo.
 
 <br>
 

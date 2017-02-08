@@ -48,7 +48,7 @@ This page has a breakdown of the general content that we will cover in each clas
 
 <br>
 
-<span class="ass">**Wednesday, February 8th**</span> <br> mouse events, creative coding, generating data with p5.js
+<span class="ass">**Wednesday, February 8th**</span> <br> p5.js, arrays and objects
 
 <hr>
 
