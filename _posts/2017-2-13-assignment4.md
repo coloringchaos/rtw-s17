@@ -10,7 +10,7 @@ permalink: /assignment-4/
 
 Create multi-user interactive experience using [p5.js](http://p5js.org/) and socket.io. This could be a collaborative drawing, a simple game, or any other experience that relies on multiple client inputs and sends numerous pieces of data back and forth. Focus on the interactivity and the visual style. 
 
-You may extend your project from Assignment 3. You are also welcome to work in groups!
+You may extend your project from Assignment 3.
 
 <hr>
 
