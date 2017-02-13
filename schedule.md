@@ -53,7 +53,7 @@ This page has a breakdown of the general content that we will cover in each clas
 <hr>
 
 ### Week 5
-<span class="ass">**Monday, February 13th**</span> <br> collaborative drawing with socket.io
+<span class="ass">**Monday, February 13th**</span> <br> JSON, collaborative drawing with socket.io - <span class="link">[follow along with this template](../img/socket-drawing-template.zip)</span>
 
 <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 3](/rtw-s17/assignment-3)</span>
 
@@ -66,7 +66,7 @@ This page has a breakdown of the general content that we will cover in each clas
 ### Week 6
 <span class="ass">**Monday, February 20th**</span> <br> HTML5 audio and video with WebRTC 
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 4]()</span>
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 4](/rtw-s17/assignment-4)</span>
 
 <br>
 
