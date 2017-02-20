@@ -64,29 +64,31 @@ This page has a breakdown of the general content that we will cover in each clas
 <hr>
 
 ### Week 6
-<span class="ass">**Monday, February 20th**</span> <br> HTML5 audio and video with WebRTC 
-
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 4](/rtw-s17/assignment-4)</span>
+<i>Monday, February 20th - NO CLASS</i>
+<!-- <span class="ass">**Monday, February 20th**</span> <br> *NO CLASS* -->
 
 <br>
 
-<span class="ass">**Wednesday, February 22nd**</span> <br> multi-user audio / video, running a server with peer.js
+<span class="ass">**Wednesday, February 22nd**</span> <br> HTML5 audio and video with WebRTC
+
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 4](/rtw-s17/assignment-4)</span>
 
 <hr>
 
 ### Week 7
-<span class="ass">**Monday, February 27th**</span> <br> manipulating video and saving files on node.js
+<span class="ass">**Monday, February 27th**</span> <br> multi-user audio / video, running a server with peer.js
 
 <br>
 
-<span class="ass">**Wednesday, March 1st**</span> <br> simple server side databases
+<span class="ass">**Wednesday, March 1st**</span> <br> manipulating video and saving files on node.js
 
 <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 5]()</span>
 
 <hr>
 
 ### Week 8
-<span class="ass">**Monday, March 6th**</span> <br> webRTC data channels
+<span class="ass">**Monday, March 6th**</span> <br> saving content to the server
+<!-- <br> webRTC data channels -->
 
 <br>
 
