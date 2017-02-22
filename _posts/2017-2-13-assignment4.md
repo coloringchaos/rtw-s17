@@ -26,4 +26,4 @@ Assignment 4 is worth 40 points. You will be evaluated on:
 
 <br>
 
-**Assignment 4 is due before class on Monday, February 20th** 
+**Assignment 4 is due before class on Monday, February 27th** 
