@@ -72,49 +72,51 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 <hr>
 
 ### Week 7
-<span class="ass">**Monday, February 27th**</span><br> HTML5 audio and video with WebRTC
+<span class="ass">**Monday, February 27th**</span><br> playtesting, project 1 discussion, forever server
 
 <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 4](/rtw-s17/assignment-4)</span>
 
 <br>
 
-<span class="ass">**Wednesday, March 1st**</span> <br> multi-user audio / video, running a server with peer.js, manipulating video and saving files on node.js
+<span class="ass">**Wednesday, March 1st**</span> <br> mobile
 
 
 <hr>
 
 ### Week 8
-<span class="ass">**Monday, March 6th**</span> <br> saving content to the server
-<!-- <br> webRTC data channels -->
+<span class="ass">**Monday, March 6th**</span> <br> mobile, p5.sound
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 5]()</span>
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Project 1 Proposal](/rtw-s17/project-1)</span>
 
 <br>
 
-<span class="ass">**Wednesday, March 8th**</span> <br> mobile
+<span class="ass">**Wednesday, March 8th**</span> <br> p5.sound, saving content to the server
+
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 5]()</span>
 
 <hr>
 
 ### Week 9
-<span class="ass">**Monday, March 13th**</span> <br> mobile & other live data
+<span class="ass">**Monday, March 13th**</span> <br> chrome extensions
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 6]()</span>
+<!-- <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 6]()</span> -->
 
 <br>
 
-<span class="ass">**Wednesday, March 15th**</span> <br> mobile & other live data
+<span class="ass">**Wednesday, March 15th**</span> <br> chrome extensions
+
+
 
 <hr>
 
 ### Week 10
-<span class="ass">**Monday, March 20th**</span> <br> project 1 critique
-
-<span class="due"><i class="fa fa-star" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Project 1]()</span>
+<span class="ass">**Monday, March 20th**</span> <br> work time / play-testing
 
 <br>
 
-<span class="ass">**Wednesday, March 22nd**</span> <br> mobile and live data from other sources
+<span class="ass">**Wednesday, March 22nd**</span> <br> project 1 critique
 
+<span class="due"><i class="fa fa-star" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Project 1](/rtw-s17/project-1)</span>
 <hr>
 
 ### Week 11 - SPRING BREAK
@@ -125,37 +127,37 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 <hr>
 
 ### Week 12
-<span class="ass">**Monday, April 3rd**</span> <br> chrome extensions
+<span class="ass">**Monday, April 3rd**</span> <br> HTML5 audio and video with WebRTC, webRTC data channels
 
 <br>
 
-<span class="ass">**Wednesday, April 5th**</span> <br>final project workshop
-
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 7]()</span>
+<span class="ass">**Wednesday, April 5th**</span> <br>final project workshop, audio / video, running a server with peer.js
 
 <hr>
 
 ### Week 13
-<span class="ass">**Monday, April 10th**</span> <br> live data from the physical world (arduino)
+<span class="ass">**Monday, April 10th**</span> <br> streaming video
 
 <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Final Project Proposal]()</span>
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 8]()</span> (Book Report)
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 6]()</span>
+
+<!-- <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 8]()</span> (Book Report) -->
 
 <br>
 
-<span class="ass">**Wednesday, April 12th**</span> <br> arduino and node.js
+<span class="ass">**Wednesday, April 12th**</span> <br> live data from the physical world (arduino)
 
 <hr>
 
 ### Week 14
-<span class="ass">**Monday, April 17th**</span> <br> arduino and node.js
-
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 9]()</span>
+<span class="ass">**Monday, April 17th**</span> <br> live data from the physical world (arduino)
 
 <br>
 
 <span class="ass">**Wednesday, April 19th**</span> <br>
+
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 7]()</span>
 
 <hr>
 
@@ -182,4 +184,4 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 
 ### Finals Week
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 10]()</span>
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 8]()</span>
