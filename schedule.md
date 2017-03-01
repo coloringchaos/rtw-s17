@@ -78,8 +78,7 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 
 <br>
 
-<span class="ass">**Wednesday, March 1st**</span> <br> mobile
-
+<span class="ass">**Wednesday, March 1st**</span> <br> mobile sensors, follow along with this [socket template](../img/socket-template.zip)
 
 <hr>
 
