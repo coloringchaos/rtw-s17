@@ -10,12 +10,15 @@ permalink: /assignment-5/
 
 Build an interactive exerience that utilizes a mobile device as an input or controller. 
 
-The setup architecture of this application should be as follows:
-- users connect to the experience using a mobile phone
-- a central page displays the contribution of each user
-- a server handles communication between the various clients
+*The architecture of this application should be as follows:*
 
-Focus on creating something that is simple and intuitive to use. Pay careful attention to how you design the interactivity and the visual style. 
+1. A user connects to the experience using a mobile phone. 
+2. A central page displays the contribution of each user.
+3. A server handles communication between the various clients.
+
+<br>
+
+Focus on creating something that is simple and intuitive to use. Be intentional in your design of the interactive aspects and the visual style. 
 
 <hr>
 
