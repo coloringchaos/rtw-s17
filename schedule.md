@@ -83,26 +83,25 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 <hr>
 
 ### Week 8
-<span class="ass">**Monday, March 6th**</span> <br> mobile, p5.sound
+<span class="ass">**Monday, March 6th**</span> <br> mobile with p5, project discussion
 
 <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Project 1 Proposal](/rtw-s17/project-1)</span>
 
 <br>
 
-<span class="ass">**Wednesday, March 8th**</span> <br> p5.sound, saving content to the server
+<span class="ass">**Wednesday, March 8th**</span> <br> p5.sound, generating data with p5, saving content to the server
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 5]()</span>
 
 <hr>
 
 ### Week 9
-<span class="ass">**Monday, March 13th**</span> <br> chrome extensions
+<span class="ass">**Monday, March 13th**</span> <br> p5.sound<!-- chrome extensions -->
 
-<!-- <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 6]()</span> -->
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 5](/rtw-s17/assignment-5)</span>
 
 <br>
 
-<span class="ass">**Wednesday, March 15th**</span> <br> chrome extensions
+<span class="ass">**Wednesday, March 15th**</span> <br> p5 sound<!-- chrome extensions -->
 
 
 
