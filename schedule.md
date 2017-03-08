@@ -89,7 +89,9 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 
 <br>
 
-<span class="ass">**Wednesday, March 8th**</span> <br> p5.sound, generating data with p5, saving content to the server
+<span class="ass">**Wednesday, March 8th**</span> <br> p5.sound
+
+<!-- , generating data with p5, saving content to the server -->
 
 
 <hr>
