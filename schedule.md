@@ -89,15 +89,14 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 
 <br>
 
-<span class="ass">**Wednesday, March 8th**</span> <br> p5.sound
+<span class="ass">**Wednesday, March 8th**</span> <br> p5.sound, loading sounds, amplitude, oscillators, <span class="link">[here is a song to use](../img/song.zip)</span>, and here is a <span class="link">[socket-p5-template](../img/socket-p5-template.zip)</span> to start from
 
 <!-- , generating data with p5, saving content to the server -->
-
 
 <hr>
 
 ### Week 9
-<span class="ass">**Monday, March 13th**</span> <br> p5.sound<!-- chrome extensions -->
+<span class="ass">**Monday, March 13th**</span> <br> p5.sound, saving content to the server<!-- chrome extensions -->
 
 <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 5](/rtw-s17/assignment-5)</span>
 
