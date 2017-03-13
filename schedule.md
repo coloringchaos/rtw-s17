@@ -96,13 +96,13 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 <hr>
 
 ### Week 9
-<span class="ass">**Monday, March 13th**</span> <br> p5.sound, saving content to the server<!-- chrome extensions -->
+<span class="ass">**Monday, March 13th**</span> <br> p5 sound, project check-in<!-- chrome extensions -->
 
 <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 5](/rtw-s17/assignment-5)</span>
 
 <br>
 
-<span class="ass">**Wednesday, March 15th**</span> <br> p5 sound<!-- chrome extensions -->
+<span class="ass">**Wednesday, March 15th**</span> <br> p5 sound, saving content to the server<!-- chrome extensions -->
 
 
 
