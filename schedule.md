@@ -89,7 +89,7 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 
 <br>
 
-<span class="ass">**Wednesday, March 8th**</span> <br> p5.sound, loading sounds, amplitude, oscillators, <span class="link">[here is a song to use](../img/song.zip)</span>, and here is a <span class="link">[socket-p5-template](../img/socket-p5-template.zip)</span> to start from
+<span class="ass">**Wednesday, March 8th**</span> <br> p5.sound, loading sounds, amplitude, oscillators, <span class="link">[here is a song to use](../img/song.zip)</span>, and here is a <span class="link">[socket-p5-template](../img/socket-p5-template.zip)</span> to start from. finished example are <span class="link">[here](https://github.com/coloringchaos/rtw-example-code)</span>. 
 
 <!-- , generating data with p5, saving content to the server -->
 
