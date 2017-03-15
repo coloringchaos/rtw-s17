@@ -10,6 +10,9 @@ permalink: /resources/
 <!-- <br> -->
 <hr>
 
+### <span class="underlined">Resources on Github</span>
+
++ [RTW Example Repo](https://github.com/coloringchaos/rtw-example-code)
 
 ### <span class="underlined">Helpful JavaScript Things</span>
 

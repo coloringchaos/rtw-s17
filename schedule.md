@@ -102,9 +102,7 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 
 <br>
 
-<span class="ass">**Wednesday, March 15th**</span> <br> p5 sound, saving content to the server<!-- chrome extensions -->
-
-
+<span class="ass">**Wednesday, March 15th**</span> <br> saving content to the server, here is a <span class="link">[template](../img/saving-json.zip)</span> to start from
 
 <hr>
 
