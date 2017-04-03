@@ -124,46 +124,64 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 <hr>
 
 ### Week 12
-<span class="ass">**Monday, April 3rd**</span> <br> HTML5 audio and video with WebRTC, webRTC data channels
+<span class="ass">**Monday, April 3rd**</span> <br> data from the physical world (serial + Arduino), follow along with this <span class="link">[serial template](../img/serial-template.zip)</span>
+
+<!-- HTML5 audio and video with WebRTC, webRTC data channels -->
 
 <br>
 
-<span class="ass">**Wednesday, April 5th**</span> <br>final project workshop, audio / video, running a server with peer.js
+<span class="ass">**Wednesday, April 5th**</span> <br>final project workshop, more serial
+
+<!-- audio / video, running a server with peer.js -->
 
 <hr>
 
 ### Week 13
-<span class="ass">**Monday, April 10th**</span> <br> streaming video
+<span class="ass">**Monday, April 10th**</span> <br> streaming video, peerjs
+
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Group 1 and 2
 
 <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Final Project Proposal]()</span>
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 6]()</span>
-
-<!-- <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 8]()</span> (Book Report) -->
+<!-- <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 6]()</span> -->
 
 <br>
 
-<span class="ass">**Wednesday, April 12th**</span> <br> live data from the physical world (arduino)
+<span class="ass">**Wednesday, April 12th**</span> <br> streaming video, peerjs
+
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Group 3 and 4
+
+
+<!-- live data from the physical world (arduino) -->
 
 <hr>
 
 ### Week 14
-<span class="ass">**Monday, April 17th**</span> <br> live data from the physical world (arduino)
+<span class="ass">**Monday, April 17th**</span> <br> databases
+
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Group 5 and 6
+
+
+<!-- live data from the physical world (arduino) -->
 
 <br>
 
-<span class="ass">**Wednesday, April 19th**</span> <br>
+<span class="ass">**Wednesday, April 19th**</span> <br> databases
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 7]()</span>
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Group 7
+
+
+<!-- <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 7]()</span> -->
 
 <hr>
 
 ### Week 15
-<span class="ass">**Monday April 24th**</span> <br>
+<i>Monday, April 24th - NO CLASS</i>
+<!-- <span class="ass">**Monday April 24th**</span> <br> -->
 
 <br>
 
-<span class="ass">**Wednesday, April 26th**</span> <br>
+<span class="ass">**Wednesday, April 26th**</span> <br> project 2 playtesting
 
 <hr>
 
@@ -176,9 +194,16 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 
 <span class="due"><i class="fa fa-star" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Project 2]()</span>
 
+<br>
+
+### ATLAS EXPO - May 3rd 
+
+<!-- <span class="ass">**Wednesday, May 3rd**</span> <br> ATLAS EXPO -->
+
+
 <hr>
 
 
 ### Finals Week
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 8]()</span>
+<!-- <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 8]()</span> -->

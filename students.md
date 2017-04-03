@@ -22,7 +22,7 @@ permalink: /students/
 | **Susie Gomez-Burgos** &nbsp;	| [blog](https://sgomezburgos.com/category/real-time-web/) / [github](https://github.com/susanagburgos) |
 | **Chris Koski** &nbsp;	| [blog](https://buildingwithchris.wordpress.com/category/real-time-web/) / [github](https://github.com/Singularity3) |
 | **Alex Mackie** &nbsp;	| [blog](https://alexsmackie.wordpress.com/) / [github](https://github.com/AlexMackie) |
-| **Karen Megory-Cohen** &nbsp;	| [blog](https://codedocumentation.wordpress.com/) / [github](https://github.com/kmegoryc) |
+| **Keren Megory-Cohen** &nbsp;	| [blog](https://codedocumentation.wordpress.com/) / [github](https://github.com/kmegoryc) |
 | **Sara Palandeng** &nbsp;	| [blog](https://spalandengweb.wordpress.com/) / [github]() |
 | **Kaylin Shioshita** &nbsp;	| [blog](https://kshioshita.wordpress.com/category/real-time-web/) / [github](https://github.com/Kshioshita) |
 | **Jonnny South** &nbsp;	| [blog]() / [github]() |
