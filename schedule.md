@@ -91,12 +91,10 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 
 <span class="ass">**Wednesday, March 8th**</span> <br> p5.sound, loading sounds, amplitude, oscillators, <span class="link">[here is a song to use](../img/song.zip)</span>, and here is a <span class="link">[socket-p5-template](../img/socket-p5-template.zip)</span> to start from. finished example are <span class="link">[here](https://github.com/coloringchaos/rtw-example-code)</span>. 
 
-<!-- , generating data with p5, saving content to the server -->
-
 <hr>
 
 ### Week 9
-<span class="ass">**Monday, March 13th**</span> <br> p5 sound, project check-in<!-- chrome extensions -->
+<span class="ass">**Monday, March 13th**</span> <br> p5 sound, project check-in
 
 <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 5](/rtw-s17/assignment-5)</span>
 
@@ -126,13 +124,9 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 ### Week 12
 <span class="ass">**Monday, April 3rd**</span> <br> data from the physical world (serial + Arduino), follow along with this <span class="link">[serial template](../img/serial-template.zip)</span>
 
-<!-- HTML5 audio and video with WebRTC, webRTC data channels -->
-
 <br>
 
-<span class="ass">**Wednesday, April 5th**</span> <br>final project workshop, more serial
-
-<!-- audio / video, running a server with peer.js -->
+<span class="ass">**Wednesday, April 5th**</span> <br>data from the physical world, more serial & arduino
 
 <hr>
 
@@ -149,7 +143,7 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 
 <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Group 3 and 4
 
-<!-- <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Final Project Proposal]()</span> -->
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Final Project Proposal](/rtw-s17/project-2)</span>
 
 <hr>
 
@@ -182,7 +176,7 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 
 <span class="ass">**Wednesday, May 3rd**</span> <br> project 2 critique
 
-<span class="due"><i class="fa fa-star" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Project 2]()</span>
+<span class="due"><i class="fa fa-star" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Project 2](/rtw-s17/project-2)</span>
 
 <br>
 
