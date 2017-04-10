@@ -137,47 +137,38 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 <hr>
 
 ### Week 13
-<span class="ass">**Monday, April 10th**</span> <br> streaming video, peerjs
+<span class="ass">**Monday, April 10th**</span> <br> project 2 discussion, presentations, wrap up serial
 
 <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Group 1 and 2
-
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Final Project Proposal]()</span>
 
 <!-- <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 6]()</span> -->
 
 <br>
 
-<span class="ass">**Wednesday, April 12th**</span> <br> streaming video, peerjs
+<span class="ass">**Wednesday, April 12th**</span> <br> WebRTC, streaming video, peerjs, presentations
 
 <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Group 3 and 4
 
-
-<!-- live data from the physical world (arduino) -->
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Final Project Proposal]()</span>
 
 <hr>
 
 ### Week 14
-<span class="ass">**Monday, April 17th**</span> <br> databases
+<span class="ass">**Monday, April 17th**</span> <br> streaming video, peerjs
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Group 5 and 6
-
-
-<!-- live data from the physical world (arduino) -->
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Group 6 and 8
 
 <br>
 
 <span class="ass">**Wednesday, April 19th**</span> <br> databases
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Group 7
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Group 9
 
-
-<!-- <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 7]()</span> -->
 
 <hr>
 
 ### Week 15
 <i>Monday, April 24th - NO CLASS</i>
-<!-- <span class="ass">**Monday April 24th**</span> <br> -->
 
 <br>
 
