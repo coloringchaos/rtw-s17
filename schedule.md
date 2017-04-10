@@ -141,15 +141,15 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 
 <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Group 1 and 2
 
-<!-- <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 6]()</span> -->
-
 <br>
 
 <span class="ass">**Wednesday, April 12th**</span> <br> WebRTC, streaming video, peerjs, presentations
 
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 6](/rtw-s17/assignment-6)</span>
+
 <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Group 3 and 4
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Final Project Proposal]()</span>
+<!-- <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Final Project Proposal]()</span> -->
 
 <hr>
 
@@ -163,7 +163,6 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 <span class="ass">**Wednesday, April 19th**</span> <br> databases
 
 <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Group 9
-
 
 <hr>
 
