@@ -133,30 +133,32 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 ### Week 13
 <span class="ass">**Monday, April 10th**</span> <br> project 2 discussion, presentations, wrap up serial
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Group 1 and 2
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Group 1 (Susie & Amanda) and 2 (Jonny & Chris)
 
 <br>
 
-<span class="ass">**Wednesday, April 12th**</span> <br> WebRTC, streaming video, peerjs, presentations
+<span class="ass">**Wednesday, April 12th**</span> <br> WebRTC, streaming video, presentations - <span class="link">[getUserMedia template](/rtw-s17/img/getUserMedia.zip)</span>
 
 <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 6](/rtw-s17/assignment-6)</span>
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Group 3 and 4
-
 <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Final Project Proposal](/rtw-s17/project-2)</span>
+
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Group 4 (Keren & Hannah)
 
 <hr>
 
 ### Week 14
 <span class="ass">**Monday, April 17th**</span> <br> streaming video, peerjs
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Group 6 and 8
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Groups 4 (Cyron & Carolyn) and 6 (Kaylin & Ethan A)
+
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:** Listen to Reply All</span> <span class="ass">[Episodes 91 & 93](https://gimletmedia.com/reply-all/)</span>
 
 <br>
 
 <span class="ass">**Wednesday, April 19th**</span> <br> databases
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Group 9
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Groups 8 (Marla & Andy) and 9 (Austin, Bri & Ethan C)
 
 <hr>
 
