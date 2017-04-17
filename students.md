@@ -21,9 +21,7 @@ permalink: /students/
 | **Bri Dascher** &nbsp;	| [blog](https://bridascher.wordpress.com/category/real-time-web/) / [github](https://github.com/bri-dash) |
 | **Susie Gomez-Burgos** &nbsp;	| [blog](https://sgomezburgos.com/category/real-time-web/) / [github](https://github.com/susanagburgos) |
 | **Chris Koski** &nbsp;	| [blog](https://buildingwithchris.wordpress.com/category/real-time-web/) / [github](https://github.com/Singularity3) |
-<!-- | **Alex Mackie** &nbsp;	| [blog](https://alexsmackie.wordpress.com/) / [github](https://github.com/AlexMackie) | -->
 | **Keren Megory-Cohen** &nbsp;	| [blog](https://codedocumentation.wordpress.com/) / [github](https://github.com/kmegoryc) |
-<!-- | **Sara Palandeng** &nbsp;	| [blog](https://spalandengweb.wordpress.com/) / [github]() | -->
 | **Kaylin Shioshita** &nbsp;	| [blog](https://kshioshita.wordpress.com/category/real-time-web/) / [github](https://github.com/Kshioshita) |
 | **Jonnny South** &nbsp;	| [blog]() / [github]() |
 | **Hannah Vine** &nbsp;	| [blog](https://hannahvinertw.wordpress.com/) / [github]() |

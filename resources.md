@@ -48,5 +48,6 @@ permalink: /resources/
 
 + <span class="link">[Internet Noise](https://slifty.github.io/internet_noise/index.html)</span> (project)
 
++ <span class="link">[Thank You For Being Late](https://www.amazon.com/Thank-You-Being-Late-Accelerations/dp/0374273537)</span>, by Thomas L. Friedman (book)
 
 
