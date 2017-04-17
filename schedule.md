@@ -137,7 +137,7 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 
 <br>
 
-<span class="ass">**Wednesday, April 12th**</span> <br> WebRTC, streaming video, presentations - <span class="link">[getUserMedia template](/rtw-s17/img/getUserMedia.zip)</span>
+<span class="ass">**Wednesday, April 12th**</span> <br> WebRTC, streaming video, presentations - <span class="link">[getUserMedia template](/rtw-s17/img/getUserMedia.zip)</span>, <span class="link">[WebRTC Slides](https://docs.google.com/a/colorado.edu/presentation/d/1tMlHDrWfT7G_dJBgct7KVAL-v0_dfRBxMYCAHXRzhzw/edit?usp=sharing)</span>
 
 <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 6](/rtw-s17/assignment-6)</span>
 
