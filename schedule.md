@@ -148,7 +148,7 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 <hr>
 
 ### Week 14
-<span class="ass">**Monday, April 17th**</span> <br> streaming video, peerjs
+<span class="ass">**Monday, April 17th**</span> <br> streaming video, peerjs - <span class="link">[peerjs template](/rtw-s17/img/peerjs-template.zip)</span>
 
 <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Groups 4 (Cyron & Carolyn) and 6 (Kaylin & Ethan A)
 
