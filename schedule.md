@@ -156,9 +156,9 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 
 <br>
 
-<span class="ass">**Wednesday, April 19th**</span> <br> databases
+<span class="ass">**Wednesday, April 19th**</span> <br> namespaces, rooms, databases, work time
 
-<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Groups 8 (Marla & Andy) and 9 (Austin, Bri & Ethan C)
+<span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**In Class:**</span> <span class="ass">[Topic Presentations](/rtw-s17/topics)</span> - Group 9 (Austin, Bri & Ethan C)
 
 <hr>
 
