@@ -8,6 +8,7 @@ permalink: /namespaces-rooms/
 
 ---
 
+
 As a way to manage data connections, we can introduce separation between communication channels using custom Namespaces. Within each namespace, you can also define Rooms, or arbitrary channels that sockets can join and leave.
 
 
