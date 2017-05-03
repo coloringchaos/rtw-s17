@@ -176,7 +176,7 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 
 <br>
 
-<span class="ass">**Wednesday, May 3rd**</span> <br> project 2 critique
+<span class="ass">**Wednesday, May 3rd**</span> <br> project 2 critique, <span class="link">[submit peer feedback](https://docs.google.com/a/colorado.edu/forms/d/e/1FAIpQLSf7THP-9FjikcMP2e-l11AvuJWB1QLZbxoLnEIdD_E4my1gvA/viewform?usp=sf_link)</span>
 
 <span class="due"><i class="fa fa-star" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Project 2](/rtw-s17/project-2)</span>
 
@@ -184,12 +184,11 @@ Optional informal meeting in TAM suite (ATLS 231) from 12pm-1:30pm
 
 ### ATLAS EXPO - May 3rd 
 
-<!-- <span class="ass">**Wednesday, May 3rd**</span> <br> ATLAS EXPO -->
-
-
 <hr>
 
-
+<!-- 
 ### Finals Week
+
+<span class="ass">**Tuesday, May 9th**</span> <br> final documentation due -->
 
 <!-- <span class="due"><i class="fa fa-star-o" aria-hidden="true"></i>**Due:**</span> <span class="ass">[Assignment 8]()</span> -->
